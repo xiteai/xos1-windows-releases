@@ -1,0 +1,110 @@
+{
+  "version": "1.0.17",
+  "notes": "Download all your data in one locked file and bring it to another computer. A redesigned setup, a new Intelligence page with a switch and an example for every step, Ecosystem and Portfolio that ask before they read anything, and memory that keeps itself straight.",
+  "changelog": {
+    "headline": "Your data, in your hands",
+    "sections": [
+      {
+        "title": "Your data",
+        "items": [
+          "Download everything you keep in XOS1 as one file, locked with a data password only you know.",
+          "Bring that file into XOS1 on another computer. Pick what comes in, then add it to what is there or replace it.",
+          "You set the data password right after setup, and it is asked again every time you download."
+        ]
+      },
+      {
+        "title": "Setup",
+        "items": [
+          "A calmer, redesigned setup page with the same smooth feel as the rest of the app."
+        ]
+      },
+      {
+        "title": "Intelligence",
+        "items": [
+          "Settings has a new Intelligence page. Every step the AI takes has its own example conversation and a switch.",
+          "Steps the system can't work properly without, like keeping memory consistent, follow their parent and have no switch to break.",
+          "An ordinary message now takes four steps. Extra checks, like the honesty review, are off until you turn them on.",
+          "Speech now starts as soon as the first sentence is finished."
+        ]
+      },
+      {
+        "title": "Privacy and permissions",
+        "items": [
+          "Your portfolio is now its own permission. The AI gives information only and never tells you to buy or sell.",
+          "Ecosystem asks before it reads anything about your PC. Nothing listens on your network until you allow it.",
+          "The Intelligence, Privacy and Ecosystem pages are rewritten in plain words.",
+          "The Wallet page is gone for good."
+        ]
+      },
+      {
+        "title": "Apps",
+        "items": [
+          "Desktop shortcuts, like a game's own icon, now show up under Miscellaneous.",
+          "Your app list refreshes itself when it is more than 12 hours old, so a new game appears without pressing Refresh.",
+          "Refresh and hide are now one tidy button at the bottom of the sidebar."
+        ]
+      },
+      {
+        "title": "Memory",
+        "items": [
+          "When something you say changes a fact on file, it now updates it, replaces it, removes it, or asks you, instead of keeping both versions side by side.",
+          "When it asks about a conflict and you answer, that settles it. It won't ask the same thing again.",
+          "People you mention are kept straight: no more phantom people from words like \"my brother\", and pets are filed as pets.",
+          "Facts are saved in English whatever language you spoke in, so they're found again later.",
+          "Recall now brings up what's nearby too: today's anniversaries, and the people who've been on your mind.",
+          "The nightly check-up only merges duplicates and asks about conflicts. It never quietly retires a fact.",
+          "Settings shows how many days each person you know has come up in conversation."
+        ]
+      },
+      {
+        "title": "Conversation",
+        "items": [
+          "The AI tells you when it thinks you're kidding yourself, gives its reason, and doesn't take it back just because you didn't like it.",
+          "When something matters, it can ask the question you've been stepping around. When you're joking around, it can roast you back.",
+          "Ask the AI what XOS1 is, which company makes it, or who founded that company, and it will tell you.",
+          "When it writes to a note or a document for you, it now checks the result actually matches what you asked before telling you it's done. It says so plainly when it doesn't."
+        ]
+      },
+      {
+        "title": "Markets",
+        "items": [
+          "A redesigned Markets page: live tape, index strip, market leaders, and a cleaner chart that never drops the latest point.",
+          "Every stock page now has a Financials tab with statements, ratios, growth, shareholding and dividends."
+        ]
+      },
+      {
+        "title": "Games",
+        "items": [
+          "Put a game on hold and pick it up later. Leaving a game parks it instead of ending it, and you can also give up properly.",
+          "In chess, the AI now knows exactly which moves were yours and which were its own."
+        ]
+      },
+      {
+        "title": "Smoother everywhere",
+        "items": [
+          "Smoother wheel scrolling, and lighter animations on the portfolio, settings and app windows.",
+          "Calendar searches by topic now find the right entries instead of loose text matches.",
+          "Moving, shifting or undoing several calendar entries at once, and bringing back a deleted note, now pick the right action more reliably.",
+          "If an update can't install, you see one plain sentence about what happened, and it retries on its own."
+        ]
+      },
+      {
+        "title": "Security",
+        "items": [
+          "The app no longer keeps provider credentials on your PC. It proves which machine it is and borrows short-lived access instead, so there is nothing on disk for anyone to copy."
+        ]
+      }
+    ],
+    "data_safety": "Your chats, memory, notes, portfolio and settings stay exactly as they are. Updates only replace the app's own program files. Nothing you have created is touched or deleted."
+  },
+  "published_at": "2026-10-25T08:55:46Z",
+  "download_url": "https://github.com/xiteai/xos1-windows-releases/releases/latest",
+  "manifest_url": "https://github.com/xiteai/xos1-windows-releases/releases/download/v1.0.17/manifest-1.0.17.json",
+  "manifest_sha256": "8511ca1ebff6d530561d32b43febba7c298df0a4b6d1a9168463ed35a087349a",
+  "delta": {},
+  "installer": {
+    "url": "https://github.com/xiteai/xos1-windows-releases/releases/download/v1.0.17/XiteAI-OS1-Setup-1.0.17.exe",
+    "size": 1370220090,
+    "sha256": "238d100ec9ace62db9863f58655263d14a13213fde80d3a76cd206614cbbada9"
+  }
+}
