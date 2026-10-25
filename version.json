@@ -15,7 +15,11 @@
       {
         "title": "Setup",
         "items": [
-          "A calmer, redesigned setup page with the same smooth feel as the rest of the app."
+          "A calmer, redesigned setup page with the same smooth feel as the rest of the app.",
+          "Finishing setup now opens the workspace directly, with the setup screen kept visible until it is ready.",
+          "XOS1 appears while the setup guide loads, and the unnecessary wait at the end is gone.",
+          "Choose Talk, Type or On my own. Edit a spoken answer before it is sent, see setup progress, and choose whether to enable voice recognition.",
+          "Stephen uses clear, practical guidance, and the installer has consistent XOS1 branding with the updated logo artwork."
         ]
       },
       {
@@ -97,14 +101,14 @@
     ],
     "data_safety": "Your chats, memory, notes, portfolio and settings stay exactly as they are. Updates only replace the app's own program files. Nothing you have created is touched or deleted."
   },
-  "published_at": "2026-10-25T08:55:46Z",
+  "published_at": "2026-10-25T15:53:05Z",
   "download_url": "https://github.com/xiteai/xos1-windows-releases/releases/latest",
   "manifest_url": "https://github.com/xiteai/xos1-windows-releases/releases/download/v1.0.17/manifest-1.0.17.json",
-  "manifest_sha256": "a998d1622922f3bd23f3aec08b5c10314525cadb65c2bf71b0fd9625b85526e6",
+  "manifest_sha256": "08ed3016ca49908d04de140ef96591447b11c5e3265dacc1e9454a1d17367804",
   "delta": {},
   "installer": {
     "url": "https://github.com/xiteai/xos1-windows-releases/releases/download/v1.0.17/XiteAI-OS1-Setup-1.0.17.exe",
-    "size": 1378714902,
-    "sha256": "56adcdf8a3b5da9dc0b877329e031458a01c3982cfe6e4d23451d3c5042ea333"
+    "size": 1378514887,
+    "sha256": "de8d8aa1d396f3700fe4a2b02b53aba04afa28a06eee7836598aa02733848648"
   }
 }
