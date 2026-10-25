@@ -100,11 +100,11 @@
   "published_at": "2026-10-25T08:55:46Z",
   "download_url": "https://github.com/xiteai/xos1-windows-releases/releases/latest",
   "manifest_url": "https://github.com/xiteai/xos1-windows-releases/releases/download/v1.0.17/manifest-1.0.17.json",
-  "manifest_sha256": "8511ca1ebff6d530561d32b43febba7c298df0a4b6d1a9168463ed35a087349a",
+  "manifest_sha256": "a998d1622922f3bd23f3aec08b5c10314525cadb65c2bf71b0fd9625b85526e6",
   "delta": {},
   "installer": {
     "url": "https://github.com/xiteai/xos1-windows-releases/releases/download/v1.0.17/XiteAI-OS1-Setup-1.0.17.exe",
-    "size": 1370220090,
-    "sha256": "238d100ec9ace62db9863f58655263d14a13213fde80d3a76cd206614cbbada9"
+    "size": 1378714902,
+    "sha256": "56adcdf8a3b5da9dc0b877329e031458a01c3982cfe6e4d23451d3c5042ea333"
   }
 }
